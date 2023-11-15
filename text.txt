@@ -1,0 +1,7 @@
+python setup.py build
+
+pip install cx-Freeze
+
+pip install customtkinter==0.3
+
+
