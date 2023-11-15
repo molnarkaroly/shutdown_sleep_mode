@@ -21,7 +21,7 @@ theme_mode = "dark"
 
 root = ctk.CTk()
 root.title("Időzítő")
-root.geometry("170x230")
+root.geometry("170x250")
 root.resizable(False, False)
 
 hours_entry = ctk.CTkEntry(root)
